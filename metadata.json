@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Wardrobe AI(real)",
+  "description": "Try on endless styles. Upload a photo and this app will use AI to generate a 3x3 grid of you in different outfits.",
+  "requestFramePermissions": []
+}
